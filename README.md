@@ -21,7 +21,6 @@ XML (UI Design)
 
 📦 Installation
 Clone the repository:
-
 git clone https://github.com/ganiaalma/calculator.git
 Open the project in Android Studio.
 Build and run the app on an emulator or physical device.
